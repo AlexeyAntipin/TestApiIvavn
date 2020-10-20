@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TestApiIvavn": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
